@@ -15,12 +15,12 @@ The program runs in an infinite loop and continues until the user selects the ex
 
 ## 2.Follow the options in the menu:
 
-  ### To add an element, select [1] and enter the desired value.
-  ### To find ranked elements, select [2] and enter the desired tree level.
-  ### To search for a value, select [3] and enter the value you want to search for.
-  ### To calculate the average of leaf nodes, select [4].
-  ### To find values greater than a specific number, select [5] and enter the desired value.
-  ### To exit the program, select [6].
+  - To add an element, select [1] and enter the desired value.
+  - To find ranked elements, select [2] and enter the desired tree level.
+  - To search for a value, select [3] and enter the value you want to search for.
+  - To calculate the average of leaf nodes, select [4].
+  - To find values greater than a specific number, select [5] and enter the desired value.
+  - To exit the program, select [6].
 
 ## 3.You will receive the respective results as output.
 
